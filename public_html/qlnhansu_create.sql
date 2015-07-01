@@ -6,7 +6,7 @@
 
 -- tables
 -- Table TNhanvien
-CREATE TABLE TNhanvienghfdgdsf (
+CREATE TABLE TNhanvien (
     Manv int    NOT NULL ,
     Tennv varchar(50)    NOT NULL ,
     Ngaysinh timestamp    NOT NULL ,
